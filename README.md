@@ -1,7 +1,8 @@
-<img width="714" height="714" alt="unnamed" src="https://github.com/user-attachments/assets/c7239f14-0f12-4cd6-a251-4b094e60d3c6" /># Womanium_QUANTUM_AI_Bootcamp_Journey_2024
+Womanium_QUANTUM_AI_Bootcamp_Journey_2024
+
+<img width="500" height="500" alt="unnamed" src="https://github.com/user-attachments/assets/c7239f14-0f12-4cd6-a251-4b094e60d3c6" /># Womanium_QUANTUM_AI_Bootcamp_Journey_2024
 
 
-<img width="714" height="714" alt="unnamed" src="https://github.com/user-attachments/assets/4a1b3f45-f980-4fcf-87ef-743020106e23" />
 
 ![](/resources/title-head.png)
 
@@ -118,6 +119,7 @@ QBronze introduced the foundations of quantum computing and programming through 
 <br/>
 
 <hr/>
+
 ## Applications of AI Modules
 
 - 🌍 [AI for Climate](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/5-Applications_of_AI/1-AI_For_Climate)
@@ -148,12 +150,23 @@ QBronze introduced the foundations of quantum computing and programming through 
 
 
 
-## Certificates
+## Certificates## 🏅 Certifications
 
-- [QNickel Certificate](./QNickel/Certificate)
-- [QBronze Certificate](./QBronze/Certificate)
-- [QCobalt Certificate](./QCobalt/Certificate)
-- [Womanium Quantum + AI Certificate](./Certificates/Womanium_Quantum_AI_Certificate.pdf)
+- 🎓 [QBronze – Introduction to Quantum Computing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/1-Qbronze/qbronze_personal_progress/QBronze136-356.pdf)
+
+- ⚛️ [Quantum Computing Hardware](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/3-Quantum%20Computing_Hardware/WQ2024_QHardwareCertificate_211.pdf)
+
+- 🧩 [QCobalt – Quantum Optimization and Annealing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/4.0QCobalt/QCobalt5-190.pdf)
+
+- 🤖 [Artificial Intelligence Module](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/5-Applications_of_AI/%2BWomanium%20AI%20Certificate%20-%20Sara%20Latreche.pdf)
+
+- ⚙️ [Quantum Algorithms Development I](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/6.1-Quantum%20Algorithms%20Development%20I/Classiq_certificate_fundamentals_for_quantum_algo.jpg)
+
+- 🚀 [Quantum Algorithms Development II](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/6.2-Get%20Started%20Quantum%20Algorithms%20Development%20-%20II/classiq_certificate_advanced.jpg)
+
+- 🌿 [PennyLane Quantum Machine Learning Challenge](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/7-Quantum%20Machine%20Learning/pennylane.PNG)
+
+<br/>
 
 <br/>
 
@@ -183,6 +196,7 @@ This was one of the most meaningful parts of my journey because it allowed me to
 
 - 🏆 [Award / Recognition]
   
+<img width="2048" height="1024" alt="womanium_qai" src="https://github.com/user-attachments/assets/2dc5c8c6-23ae-42b1-a8ab-fcae1e2b63c5" />
 
 <br/>
 
