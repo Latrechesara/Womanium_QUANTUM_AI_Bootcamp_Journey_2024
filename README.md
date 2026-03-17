@@ -44,15 +44,13 @@ This module documents my work in **QBronze**, part of my Womanium Quantum + AI j
 QBronze introduced the foundations of quantum computing and programming through a structured bootcamp format. It covered both classical and quantum basics, then moved toward key quantum ideas such as qubits, multi-qubit systems, entanglement, and Grover’s search algorithm.
 
 ### Module Contents
+## QBronze Modules
 
-- [1.0 Get Started: QBronze Installation and Test](./QBronze/1.0_Get_Started_QBronze_Installation_and_Test)
-- [1.0 QBronze - Upload Previous Certificate](./QBronze/1.0_Upload_Previous_Certificate)
-- [1.1 QBronze - Basics of Classical Systems](./QBronze/1.1_Basics_of_Classical_Systems)
-- [1.2 QBronze - Basics of Quantum Systems](./QBronze/1.2_Basics_of_Quantum_Systems)
-- [1.3 QBronze - Operations on Real-Valued Qubits and Multiple Qubits](./QBronze/1.3_Operations_on_Real_Valued_Qubits_and_Multiple_Qubits)
-- [1.4 QBronze - Entanglement and Protocols](./QBronze/1.4_Entanglement_and_Protocols)
-- [1.5 QBronze - Grover's Search Algorithm](./QBronze/1.5_Grovers_Search_Algorithm)
-
+- [1.1 Basics of Classical Systems](./1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20(Session%20June%203-4))
+- [1.2 Basics of Quantum Systems](./1.2%20QBronze%20-%20Basics_of_Quantum_Systems%20(Session%20June%204-5))
+- [1.3 Operations on Qubits](./1.3%20QBronze%20-%20Operations%20on%20Real-Valued%20Qubits%20and%20Multiple%20Qubits)
+- [1.4 Entanglement and Protocols](./1.4%20QBronze%20-%20Entanglement%20and%20Protocols)
+- [1.5 Grover's Search Algorithm](./1.5%20QBronze%20-%20Grover's%20Search%20Algorithm)
 #### Certificate
 - [QBronze Certificate](./QBronze/Certificate)
 
