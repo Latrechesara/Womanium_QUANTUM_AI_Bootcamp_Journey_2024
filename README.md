@@ -51,7 +51,7 @@ QBronze introduced the foundations of quantum computing and programming through 
 - [1.2 Basics of Quantum Systems](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.2%20QBronze%20-%20Basics_%20of_%20Quantum_Systems%20%28Session%20June%204-5%29)
 - [1.3 – Operations on Qubits](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.3%20QBronze%20-%20Operations%20on%20Real-Valued%20Qubits%20and%20Multiple%20Qubits%20%28Session%20June%205%29)- [1.4 Entanglement and Protocols](./1.4%20QBronze%20-%20Entanglement%20and%20Protocols)
 - [ 1.4 – Entanglement and Protocols](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.4%20QBronze%20-%20Entanglement%20and%20Protocols%20%28Session%20June%205%29)
-- [1.5 – Grover's Search Algorithm](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.5%20QBronze%20-%20Grover%27s%20Search%20Algorithm%20%28Session%20June%207%29)#### Certificate
+- [1.5 – Grover's Search Algorithm](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.5%20QBronze%20-%20Grover%27s%20Search%20Algorithm%20%28Session%20June%207%29)
 - [QBronze Qiskit Labs and Assignments](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/qbronze-qiskit-master) *(hands-on quantum programming, Qiskit exercises, and practical labs)*
 - [QBronze Certificate](./QBronze/Certificate)
 
