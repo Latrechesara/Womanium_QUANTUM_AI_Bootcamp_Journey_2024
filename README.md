@@ -1,6 +1,6 @@
-Womanium_QUANTUM_AI_Bootcamp_Journey_2024
+# Womanium_QUANTUM_AI_Bootcamp_Journey_2024
 
-<img width="500" height="500" alt="unnamed" src="https://github.com/user-attachments/assets/c7239f14-0f12-4cd6-a251-4b094e60d3c6" /># Womanium_QUANTUM_AI_Bootcamp_Journey_2024
+<img width="500" height="500" alt="unnamed" src="https://github.com/user-attachments/assets/c7239f14-0f12-4cd6-a251-4b094e60d3c6" />
 
 
 
