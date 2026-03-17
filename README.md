@@ -4,13 +4,22 @@
 
 ## 🛠️ Tools & Frameworks
 
+### Quantum Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 ![Cirq](https://img.shields.io/badge/Cirq-3DDC84?style=for-the-badge&logo=google&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-19A974?style=for-the-badge&logo=python&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-19A974?style=for-the-badge)
 ![Classiq](https://img.shields.io/badge/Classiq-Quantum-blue?style=for-the-badge)
+![D-Wave](https://img.shields.io/badge/D--Wave-Quantum-black?style=for-the-badge)
 
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+
+### Scientific Computing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 🌐 **Program Website:** [Womanium Quantum + AI Program](https://www.womanium.org/Quantum/AI)
 
 ![](/resources/title-head.png)
