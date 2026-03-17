@@ -1,5 +1,7 @@
-# Womanium_QUANTUM_AI_Bootcamp_Journey_2024
-# Womanium Quantum + AI Journey 2024
+<img width="714" height="714" alt="unnamed" src="https://github.com/user-attachments/assets/c7239f14-0f12-4cd6-a251-4b094e60d3c6" /># Womanium_QUANTUM_AI_Bootcamp_Journey_2024
+
+
+<img width="714" height="714" alt="unnamed" src="https://github.com/user-attachments/assets/4a1b3f45-f980-4fcf-87ef-743020106e23" />
 
 ![](/resources/title-head.png)
 
@@ -57,51 +59,94 @@ QBronze introduced the foundations of quantum computing and programming through 
 - 🏅 [QBronze Certificate](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/1-Qbronze/qbronze_personal_progress/QBronze136-356.pdf) *(completion of QBronze – Introduction to Quantum Computing & Programming)*
 <br/>
 
-### QNickel
+## QNickel Modules
 
-- [Notes](./QNickel/Notes)
-- [Quizzes](./QNickel/Quizzes)
-- [Assignments](./QNickel/Assignments)
-- [Certificate](./QNickel/Certificate)
+-  [2.2 Assignment – Classical Gates](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/2-QNickel/2.2%20QNickel%20-%20Assignment%20-%20Classical%20Gates)
 
-Topics covered:
-- Introduction to quantum computing
-- Basic concepts and intuition
-- Early exercises and guided learning
+-  [2.3 Quiz – Deutsch-Jozsa and Bernstein-Vazirani](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/2-QNickel/2.3%20QNickel%20-%20Quiz%20-%20Deutsch%20Jozsa%20and%20Bernstein%20Vazirani)
 
-<br/>
+- [2.4 Assignment – Simon's Algorithm](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/2-QNickel/2.4%20QNickel%20-%20Assignment%20-%20Simon%27s%20Algorithm)
 
-### QBronze
+-  [2.5 Assignment – Introduction to Cirq](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/2-QNickel/2.5%20QNickel%20-%20Assignment%20-%20Intro%20to%20Cirq)
 
-- [Notes](./QBronze/Notes)
-- [Quizzes](./QBronze/Quizzes)
-- [Assignments](./QBronze/Assignments)
-- [Certificate](./QBronze/Certificate)
+-  [2.7 Quiz – Max Cut and Adders](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/2-QNickel/2.7%20QNickel%20-%20Quiz%20-%20Max%20Cut%20and%20Adders)
 
-Topics covered:
-- Quantum gates
-- Circuits
-- Basic algorithms
-- Hands-on problem solving
+-  [2.8 Assignment – Max Cut](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/2-QNickel/2.8%20QNickel%20-%20Assignment%20-%20Max%20Cut)
+
+-  [QNickel Labs and Assignments](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/2-QNickel/qnickel_master) *(quantum algorithms implementation and practical exercises)* *(quantum algorithms implementation and practical exercises)*
+
+- 🏅 [QNickel Certificate]
 
 <br/>
 
-### QCobalt
+## Quantum Computing Hardware Modules
 
-- [Notes](./QCobalt/Notes)
-- [Quizzes](./QCobalt/Quizzes)
-- [Assignments](./QCobalt/Assignments)
-- [Certificate](./QCobalt/Certificate)
+-  [3.1 Quantum Annealing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/3-Quantum%20Computing_Hardware/3.1%20Quantum%20Annealing)
 
-Topics covered:
-- Advanced quantum concepts
-- Applied exercises
-- Deeper technical understanding
-- Preparation for project work
+-  [3.2 Superconducting Quantum Hardware](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/3-Quantum%20Computing_Hardware/3.2.super_conducting_quantum_hardware)
+
+-  [3.3 Silicon-Based Quantum Computing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/3-Quantum%20Computing_Hardware/3.3.Sillicon_based_quantum_computing)
+
+-  [3.4 Photonic Quantum Computing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/3-Quantum%20Computing_Hardware/3.4.Photonic_quantum_computing)
+
+-  [3.5 Neutral Atoms Quantum Computing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/3-Quantum%20Computing_Hardware/3.5.Neutral_atoms_quantum_computing)
+
+- [3.6 Trapped Ions Quantum Computing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/3-Quantum%20Computing_Hardware/3.6-Trapped_Ions__quantum_computing)
+
+<br/>
+
+## QCobalt Modules
+
+- 🧩 [4.1 Quiz 1 – QUBO and Penalty Method](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.1%20QCobalt%20-%20Quiz%201%20-%20QUBO%20and%20penalty%20method%20%28Session%20June%2012%29)
+
+- ⚙️ [4.2 Assignment 1 – QUBO Formulation](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.2%20QCobalt%20-%20Assignment%201%20-%20QUBO%20Formulation%20%28Session%20June%2012%29)
+
+- 🧠 [4.3 Quiz 2 – TSP, Graph Coloring and Ising Model](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.3%20QCobalt%20-%20Quiz%202%20-%20TSP%2C%20Graph%20Coloring%20and%20Ising%20Model%20%28Session%20June%2012%29)
+
+- 🔬 [4.4 Quiz 3 – BQM and Simulated Annealing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.4%20QCobalt%20-%20Quiz%203%20-%20BQM%20and%20simulated%20annealing%20%28Session%20June%2014%29)
+
+- 🚀 [4.5 Assignment 2 – BQM](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.5%20QCobalt%20-%20Assignment%202%20-%20BQM%20%28Session%20June%2014%29)
+
+- ⚛️ [4.6 Quiz 4 – Quantum Annealing and Hybrid Solvers](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.6%20QCobalt%20-%20Quiz%204%20-%20Quantum%20annealing%20and%20hybrid%20solvers%20%28Session%20June%2014%29)
+
+- 🛠️ [4.7 Assignment 3 – Solving Problems using D-Wave](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.7%20QCobalt%20-%20Assignment%203%20-%20Solving%20problems%20using%20D-Wave%20%28Session%20June%2014%29)
+
+- 🏅 [QCobalt Certificate](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/4.0QCobalt/QCobalt5-190.pdf) *(completion of QCobalt – Quantum Optimization and Annealing)*
+
+<br/>
 
 <br/>
 
 <hr/>
+## Applications of AI Modules
+
+- 🌍 [AI for Climate](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/5-Applications_of_AI/1-AI_For_Climate)
+
+- 🧪 [AI for Material Discovery](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/5-Applications_of_AI/2-AI_for_material_discovery)
+
+- 🌫️ [AI for Atmospheric Science](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/5-Applications_of_AI/3-AI_for_atmospheric_science)
+
+- 🌐 [AI for Computer Networking](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/5-Applications_of_AI/5.4%20AI%20for%20Computer%20Networking%20%28Session%20June%2028%29)
+
+- ⚛️ [AI & Quantum for Scientific Computing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/5-Applications_of_AI/5.5%20AI%20%26%20Quantum%20for%20Scientific%20Computing%20%28Session%20July%201%29)
+
+<br/>
+
+## Quantum Algorithms Development
+
+- ⚙️ [6.1 Quantum Algorithms Development I](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/6.1-Quantum%20Algorithms%20Development%20I)
+
+- 🚀 [6.2 Quantum Algorithms Development II](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/6.2-Get%20Started%20Quantum%20Algorithms%20Development%20-%20II)
+
+<br/>
+
+## Quantum Machine Learning
+
+- 🤖 [7 Quantum Machine Learning](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/7-Quantum%20Machine%20Learning)
+
+<br/>
+
+
 
 ## Certificates
 
@@ -116,7 +161,7 @@ Topics covered:
 
 ### Project Overview
 
-During the Womanium program, I worked on a team project as part of the industry challenge phase.
+During the Womanium program, I worked on a team project  part of the industry challenge phase.
 
 Our project was recognized by the **US Naval Nuclear Laboratory** with the award for:
 
@@ -126,11 +171,20 @@ This was one of the most meaningful parts of my journey because it allowed me to
 
 ### Project Materials
 
-- [Project Report](./Project/Report)
-- [Presentation Slides](./Project/Slides)
-- [Code](./Project/Code)
-- [Supporting Notes](./Project/Notes)
-- [Award / Recognition](./Project/Award)
+## Final Project – Quantum AI for Climate
+
+- 📄 [Project Report](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/Quantum-AI-for-Climate/docs)
+
+- 🎤 [Presentation Slides](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/Quantum-AI-for-Climate/docs)
+
+- 💻 [Code](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/Quantum-AI-for-Climate)
+
+
+
+- 🏆 [Award / Recognition]
+  
+
+<br/>
 
 ### What I Learned From the Project
 
