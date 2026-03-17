@@ -45,10 +45,10 @@ QBronze introduced the foundations of quantum computing and programming through 
 
 ### Module Contents
 ## QBronze Modules
-- [Week 1](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20%28Session%20June%203-4%29)
+- [1.2 Basics of Classical Systems](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20%28Session%20June%203-4%29)
   
--[Basics of Classical Systems]([./1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20%28Session%20June%203-4%29](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20(Session%20June%203-4))
-- [1.2 Basics of Quantum Systems](./1.2%20QBronze%20-%20Basics_of_Quantum_Systems%20(Session%20June%204-5))
+
+- [1.2 Basics of Quantum Systems](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.2%20QBronze%20-%20Basics_%20of_%20Quantum_Systems%20%28Session%20June%204-5%29)
 - [1.3 Operations on Qubits](./1.3%20QBronze%20-%20Operations%20on%20Real-Valued%20Qubits%20and%20Multiple%20Qubits)
 - [1.4 Entanglement and Protocols](./1.4%20QBronze%20-%20Entanglement%20and%20Protocols)
 - [1.5 Grover's Search Algorithm](./1.5%20QBronze%20-%20Grover's%20Search%20Algorithm)
