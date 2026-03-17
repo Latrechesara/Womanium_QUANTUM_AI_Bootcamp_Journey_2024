@@ -45,6 +45,7 @@ QBronze introduced the foundations of quantum computing and programming through 
 
 ### Module Contents
 ## QBronze Modules
+- [Week 1](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20(Session%20June%203-4)
 
 -[Basics of Classical Systems]([./1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20%28Session%20June%203-4%29](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/1-Qbronze/qbronze_personal_progress/1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20(Session%20June%203-4))
 - [1.2 Basics of Quantum Systems](./1.2%20QBronze%20-%20Basics_of_Quantum_Systems%20(Session%20June%204-5))
