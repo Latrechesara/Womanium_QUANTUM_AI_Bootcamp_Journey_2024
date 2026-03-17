@@ -2,6 +2,15 @@
 
 <img width="500" height="500" alt="unnamed" src="https://github.com/user-attachments/assets/c7239f14-0f12-4cd6-a251-4b094e60d3c6" />
 
+## 🛠️ Tools & Frameworks
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
+![Cirq](https://img.shields.io/badge/Cirq-3DDC84?style=for-the-badge&logo=google&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-19A974?style=for-the-badge&logo=python&logoColor=white)
+![Classiq](https://img.shields.io/badge/Classiq-Quantum-blue?style=for-the-badge)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 🌐 **Program Website:** [Womanium Quantum + AI Program](https://www.womanium.org/Quantum/AI)
 
 ![](/resources/title-head.png)
