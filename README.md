@@ -37,6 +37,27 @@ For me, this program was more than a bootcamp. It was a research-oriented learni
 
 ## Bootcamp Phase
 
+## QBronze : Introduction to Quantum Computing & Programming
+
+This module documents my work in **QBronze**, part of my Womanium Quantum + AI journey.
+
+QBronze introduced the foundations of quantum computing and programming through a structured bootcamp format. It covered both classical and quantum basics, then moved toward key quantum ideas such as qubits, multi-qubit systems, entanglement, and Grover’s search algorithm.
+
+### Module Contents
+
+- [1.0 Get Started: QBronze Installation and Test](./QBronze/1.0_Get_Started_QBronze_Installation_and_Test)
+- [1.0 QBronze - Upload Previous Certificate](./QBronze/1.0_Upload_Previous_Certificate)
+- [1.1 QBronze - Basics of Classical Systems](./QBronze/1.1_Basics_of_Classical_Systems)
+- [1.2 QBronze - Basics of Quantum Systems](./QBronze/1.2_Basics_of_Quantum_Systems)
+- [1.3 QBronze - Operations on Real-Valued Qubits and Multiple Qubits](./QBronze/1.3_Operations_on_Real_Valued_Qubits_and_Multiple_Qubits)
+- [1.4 QBronze - Entanglement and Protocols](./QBronze/1.4_Entanglement_and_Protocols)
+- [1.5 QBronze - Grover's Search Algorithm](./QBronze/1.5_Grovers_Search_Algorithm)
+
+#### Certificate
+- [QBronze Certificate](./QBronze/Certificate)
+
+<br/>
+
 ### QNickel
 
 - [Notes](./QNickel/Notes)
