@@ -46,7 +46,7 @@ QBronze introduced the foundations of quantum computing and programming through 
 ### Module Contents
 ## QBronze Modules
 
-- [1.1 Basics of Classical Systems](./1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20(Session%20June%203-4))
+-[Basics of Classical Systems](./1.1%20QBronze%20-%20Basics%20of%20Classical%20Systems%20%28Session%20June%203-4%29)
 - [1.2 Basics of Quantum Systems](./1.2%20QBronze%20-%20Basics_of_Quantum_Systems%20(Session%20June%204-5))
 - [1.3 Operations on Qubits](./1.3%20QBronze%20-%20Operations%20on%20Real-Valued%20Qubits%20and%20Multiple%20Qubits)
 - [1.4 Entanglement and Protocols](./1.4%20QBronze%20-%20Entanglement%20and%20Protocols)
