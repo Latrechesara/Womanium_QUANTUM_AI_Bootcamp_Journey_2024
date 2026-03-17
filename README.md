@@ -11,7 +11,8 @@ This repository documents my journey through the bootcamp, from learning the fou
 
 <hr/>
 
-## About the Program
+## About the Program!
+
 
 Womanium Quantum + AI 2024 was an intensive summer program combining:
 
