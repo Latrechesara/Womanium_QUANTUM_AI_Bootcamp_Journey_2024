@@ -2,7 +2,7 @@
 
 <img width="500" height="500" alt="unnamed" src="https://github.com/user-attachments/assets/c7239f14-0f12-4cd6-a251-4b094e60d3c6" />
 
-
+🌐 **Program Website:** [Womanium Quantum + AI Program](https://www.womanium.org/Quantum/AI)
 
 ![](/resources/title-head.png)
 
