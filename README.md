@@ -116,19 +116,19 @@ QBronze introduced the foundations of quantum computing and programming through 
 
 ## QCobalt Modules
 
-- 🧩 [4.1 Quiz 1 – QUBO and Penalty Method](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.1%20QCobalt%20-%20Quiz%201%20-%20QUBO%20and%20penalty%20method%20%28Session%20June%2012%29)
+- [4.1 Quiz 1 – QUBO and Penalty Method](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.1%20QCobalt%20-%20Quiz%201%20-%20QUBO%20and%20penalty%20method%20%28Session%20June%2012%29)
 
-- ⚙️ [4.2 Assignment 1 – QUBO Formulation](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.2%20QCobalt%20-%20Assignment%201%20-%20QUBO%20Formulation%20%28Session%20June%2012%29)
+- [4.2 Assignment 1 – QUBO Formulation](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.2%20QCobalt%20-%20Assignment%201%20-%20QUBO%20Formulation%20%28Session%20June%2012%29)
 
-- 🧠 [4.3 Quiz 2 – TSP, Graph Coloring and Ising Model](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.3%20QCobalt%20-%20Quiz%202%20-%20TSP%2C%20Graph%20Coloring%20and%20Ising%20Model%20%28Session%20June%2012%29)
+-  [4.3 Quiz 2 – TSP, Graph Coloring and Ising Model](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.3%20QCobalt%20-%20Quiz%202%20-%20TSP%2C%20Graph%20Coloring%20and%20Ising%20Model%20%28Session%20June%2012%29)
 
-- 🔬 [4.4 Quiz 3 – BQM and Simulated Annealing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.4%20QCobalt%20-%20Quiz%203%20-%20BQM%20and%20simulated%20annealing%20%28Session%20June%2014%29)
+-  [4.4 Quiz 3 – BQM and Simulated Annealing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.4%20QCobalt%20-%20Quiz%203%20-%20BQM%20and%20simulated%20annealing%20%28Session%20June%2014%29)
 
-- 🚀 [4.5 Assignment 2 – BQM](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.5%20QCobalt%20-%20Assignment%202%20-%20BQM%20%28Session%20June%2014%29)
+- [4.5 Assignment 2 – BQM](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.5%20QCobalt%20-%20Assignment%202%20-%20BQM%20%28Session%20June%2014%29)
 
-- ⚛️ [4.6 Quiz 4 – Quantum Annealing and Hybrid Solvers](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.6%20QCobalt%20-%20Quiz%204%20-%20Quantum%20annealing%20and%20hybrid%20solvers%20%28Session%20June%2014%29)
+-  [4.6 Quiz 4 – Quantum Annealing and Hybrid Solvers](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.6%20QCobalt%20-%20Quiz%204%20-%20Quantum%20annealing%20and%20hybrid%20solvers%20%28Session%20June%2014%29)
 
-- 🛠️ [4.7 Assignment 3 – Solving Problems using D-Wave](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.7%20QCobalt%20-%20Assignment%203%20-%20Solving%20problems%20using%20D-Wave%20%28Session%20June%2014%29)
+-  [4.7 Assignment 3 – Solving Problems using D-Wave](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/4.0QCobalt/4.7%20QCobalt%20-%20Assignment%203%20-%20Solving%20problems%20using%20D-Wave%20%28Session%20June%2014%29)
 
 - 🏅 [QCobalt Certificate](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/4.0QCobalt/QCobalt5-190.pdf) *(completion of QCobalt – Quantum Optimization and Annealing)*
 
@@ -154,15 +154,15 @@ QBronze introduced the foundations of quantum computing and programming through 
 
 ## Quantum Algorithms Development
 
-- ⚙️ [6.1 Quantum Algorithms Development I](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/6.1-Quantum%20Algorithms%20Development%20I)
+- [6.1 Quantum Algorithms Development I](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/6.1-Quantum%20Algorithms%20Development%20I)
 
-- 🚀 [6.2 Quantum Algorithms Development II](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/6.2-Get%20Started%20Quantum%20Algorithms%20Development%20-%20II)
+-  [6.2 Quantum Algorithms Development II](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/6.2-Get%20Started%20Quantum%20Algorithms%20Development%20-%20II)
 
 <br/>
 
 ## Quantum Machine Learning
 
-- 🤖 [7 Quantum Machine Learning](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/7-Quantum%20Machine%20Learning)
+-  [7 Quantum Machine Learning](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/tree/main/7-Quantum%20Machine%20Learning)
 
 <br/>
 
