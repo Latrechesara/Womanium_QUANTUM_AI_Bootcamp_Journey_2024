@@ -168,7 +168,7 @@ QBronze introduced the foundations of quantum computing and programming through 
 
 
 
-## Certificates## 🏅 Certifications
+## 🏅 Certifications
 
 - 🎓 [QBronze – Introduction to Quantum Computing](https://github.com/Latrechesara/Womanium_QUANTUM_AI_Bootcamp_Journey_2024/blob/main/1-Qbronze/qbronze_personal_progress/QBronze136-356.pdf)
 
